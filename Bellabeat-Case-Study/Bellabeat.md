@@ -223,10 +223,24 @@ FROM `cases-studies-459821.Bellabeat.avg_minutes_activity_intensity_no_ligthly`
 
 ## Appendix: Data Visualizations (Descriptions)
 
-- **User Classification by App Usage:** Bar chart of percentage of user types by login frequency.- ![User Classification 1](https://github.com/Carole1808/Bellabeat/raw/main/User%20Classification%201.png)
-- **Activity Classification per Minute:** Chart of activity (sedentary, fairly, lightly, very active) by time per login.- ![Activity Classification](https://github.com/Carole1808/Bellabeat/raw/main/Activity%20classification%202.png)
-- **Activity Classification per Day:** Chart of activity classification per day of week.- ![Activity classification per day of week](https://github.com/Carole1808/Bellabeat/raw/main/Activity%20classification%20per%20day%20of%20week.png)
-- **Life Users Classification:** Treemap of user lifestyle categories by steps per day.- ![Life Style User Classification](https://github.com/Carole1808/Bellabeat/raw/main/life%20Style%20User%20Classification.png)
-- **Performing of the Users:** Pie chart on WHO recommendation adherence.- ![Performing Recomended](https://github.com/Carole1808/Bellabeat/raw/main/Performing%20Recomended.png)
-- **Steps vs Calories Burned:** Scatter plot of average daily steps vs calories burned, with trendline.- ![Correlation Steps Vs Calories](https://github.com/Carole1808/Bellabeat/raw/main/Correlation%20Steps%20Vs%20Calories.png)
-- **Correlation among Steps, Calories, Intensity:** Visualization comparing their relationships.- ![Performing Recomended](https://github.com/Carole1808/Bellabeat/raw/main/Performing%20Recomended.png)
+- **User Classification by App Usage:**
+  Bar chart of percentage of user types by login frequency.-
+   ![User Classification 1](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/User%20Classification%201.png)
+- **Activity Classification per Minute:**
+  Chart of activity (sedentary, fairly, lightly, very active) by time per login.
+  ![Activity Classification](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Activity%20classification%202.png)
+- **Activity Classification per Day:**
+  Chart of activity classification per day of week.
+  ![Activity classification per day of week](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Activity%20classification%20per%20day%20of%20week.png)
+- **Life Users Classification:**
+  Treemap of user lifestyle categories by steps per day.
+  ![Life Style User Classification](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/life%20Style%20User%20Classification.png)
+- **Performing of the Users:**
+  Pie chart on WHO recommendation adherence.
+  ![Performing Recomended](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Performing%20Recomended.png)
+- **Steps vs Calories Burned:**
+  Scatter plot of average daily steps vs calories burned, with trendline.
+  ![Correlation Steps Vs Calories](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Correlation%20Steps%20Vs%20Calories.png)
+- **Correlation among Steps, Calories, Intensity:**
+  Visualization comparing their relationships.
+  ![Performing Recomended](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Correlation%20among%20Steps%2C%20Calories%2C%20Intensity.png)
