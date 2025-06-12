@@ -13,6 +13,16 @@ I analyzed Fitbit smart device data to uncover user behavior trends and provides
 
 ---
 
+## 📊📉📈 Power BI Visualizations
+
+### 1. Brew Heaven: Visualizing the behavior of the revenue, inventory and customer ratings
+I created a visualization with the Brew Heaven data, first I analized it wiyh Power Query and DAX Meassures.
+
+🔗 [See the visualization →](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Power%20BI%20Visualizations/Brew%20Heaven%20project.png)
+
+
+
+---
 ## 🛠️ Tools & Skills
 - SQL, Tableau, Excel
 - Data Analysis & Visualization
