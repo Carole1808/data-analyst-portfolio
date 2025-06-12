@@ -13,22 +13,8 @@ I analyzed workflows and service patterns at a busy café and implemented proces
 
 ---
 
-### 2. Inventory Forecasting for Local Market
-Developed a demand forecasting model using historical sales data, which helped reduce stockouts by **40%** and improved inventory planning.
-
-🔗 [Read full case study →](./case-studies/inventory-forecasting.md)
-
----
-
-### 3. Customer Retention Analysis
-Performed customer churn analysis using segmentation and engagement data to identify key risk factors, resulting in a **15%** improvement in retention strategy effectiveness.
-
-🔗 [Read full case study →](./case-studies/customer-retention.md)
-
----
-
 ## 🛠️ Tools & Skills
-- Python, Pandas, Excel
+- SQL, Tableau, Excel
 - Data Analysis & Visualization
 - Process Optimization
 - Git & GitHub
@@ -37,9 +23,9 @@ Performed customer churn analysis using segmentation and engagement data to iden
 ---
 
 ## 📫 Contact Me
-📧 your.email@example.com 
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) 
-💼 [Resume (PDF)](https://github.com/your-username/resume)
+📧 dominguezcarole0808@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/itsevy-dominguez-88b7931a6) 
+💼 [Resume (PDF)](https://github.com/Carole1808/itsevy-resume)
 
 ---
 
