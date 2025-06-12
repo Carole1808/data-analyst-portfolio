@@ -25,7 +25,7 @@ I analyzed workflows and service patterns at a busy café and implemented proces
 ## 📫 Contact Me
 📧 dominguezcarole0808@gmail.com 
 🌐 [LinkedIn](https://www.linkedin.com/in/itsevy-dominguez-88b7931a6) 
-💼 [Resume (PDF)](https://github.com/Carole1808/itsevy-resume)
+💼 [Resume (PDF)](https://github.com/Carole1808/itsevy-resume/blob/main/Itsevy%20Resume%202.pdf)
 
 ---
 
