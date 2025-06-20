@@ -124,9 +124,21 @@ Due to GitHub’s file size limit, the full Power BI .pbix file is hosted on Goo
 
 ### 🖼️ Dashboard Preview
 
-Include screenshot here: ./Assets/departmental_dashboard_screenshot.png
+Here’s a preview of the multi-department Power BI dashboard:
 
-📄 Files Included
+![Main_Page](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/main_page.png.png)
+
+![Sales_dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/sales_department.png.png)
+
+![Logistic_department_dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/logistic_department.png.png)
+
+![Marketing_department_dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/marketing_department.png.png)
+
+![Customer_service__department_dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/customer_service_department.png.png)
+
+![Inventory__department_dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/inventory_department.png.png)
+
+## 📄 Files Included
 
 Ecommerce_Departmental_Insights.pbix (hosted on Google Drive)
 
@@ -136,7 +148,7 @@ Insights_and_Recommendations.pdf – Summary report
 
 /Assets – Screenshots and preview images
 
-🚀 How to Explore the Report
+## 🚀 How to Explore the Report
 
 Open .pbix in Power BI Desktop.
 
@@ -146,8 +158,6 @@ Hover over charts to activate custom tooltip pages.
 
 Use the left-side navigation menu to switch between department dashboards.
 
-💼 About Me
+Use the information icon to see the Insights and recommendations.
 
-I’m a Data Analyst skilled in turning business data into visual stories using Power BI, Excel, SQL, and Tableau. I specialize in cross-departmental dashboards that support smarter decisions.
 
-📫 LinkedIn | 🌐 Portfolio Website
