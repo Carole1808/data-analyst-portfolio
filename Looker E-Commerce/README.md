@@ -1,124 +1,128 @@
-📊 E-Commerce Departmental Insights – Power BI Dashboard Project
+# 📊 E-Commerce Departmental Insights – Power BI Dashboard Project
 
 This full Power BI project analyzes key metrics across five business departments: Sales, Marketing, Customer Service, Inventory, and Logistics from 2019 to 2025. It uses dynamic visuals, slicers, custom tooltips, and DAX measures to identify performance trends and deliver actionable business recommendations.
 
-📁 Download the Power BI File
+
+## 📁 Download the Power BI File
 
 Due to GitHub’s file size limit, the full Power BI .pbix file is hosted on Google Drive.
 
-👉 🔗 Click here to download the Looker E-Commerce Case Study (.pbix)
+👉 🔗 [Click here to download the Looker E-Commerce Case Study (.pbix)](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Looker%20E-Commerce/Dashboard)
 
 ⚠️ This file is for portfolio and educational purposes only. Please do not reuse or modify without proper credit.
 
-🧭 Dashboard Navigation
 
-🔍 Overview Page – Global KPIs, filters, and navigation
+## 🧭 Dashboard Navigation
 
-💰 Sales – Revenue trends, top products, seasonal sales
+🔍 **Overview Page** – Global KPIs, filters, and navigation
 
-📣 Marketing – Traffic sources, campaign conversions, engagement
+💰 **Sales** – Revenue trends, top products, seasonal sales
 
-🎧 Customer Service – Support ticket volume, satisfaction trends
+📣 **Marketing** – Traffic sources, campaign conversions, engagement
 
-📦 Inventory – Stock turnover, aging inventory, warehouse efficiency
+🎧 **Customer Service** – Support ticket volume, satisfaction trends
 
-🚚 Logistics – Delivery delays, fulfillment times, shipping costs
+📦 **Inventory** – Stock turnover, aging inventory, warehouse efficiency
 
-🧰 Tooltips Pages – Custom visual tooltips across charts
+🚚 **Logistics** – Delivery delays, fulfillment times, shipping costs
 
-📌 Tools & Skills Used
+🧰 **Tooltips Pages** – Custom visual tooltips across charts
 
-Power BI: DAX, custom tooltips, slicers, bookmarks, layout navigation
 
-Data Modeling: Star schema with fact and dimension tables
+## 📌 Tools & Skills Used
 
-DAX Measures: KPIs by department (e.g., sales growth, inventory turnover, delivery SLA %)
+**Power BI:** DAX, custom tooltips, slicers, bookmarks, layout navigation
 
-Storytelling: Departmental narrative and insights for decision-makers
+**Data Modeling:** Star schema with fact and dimension tables
 
-🔍 Departmental Insights & Recommendations
+**DAX Measures:** KPIs by department (e.g., sales growth, inventory turnover, delivery SLA %)
 
-💰 Sales Insights
+**Storytelling:** Departmental narrative and insights for decision-makers
 
-Q4 is consistently the highest performing quarter from 2019 to 2025, driven by holiday promotions.
 
-High-performing brands: Levi’s, Calvin Klein, and Nike drive over 35% of annual revenue.
+## 🔍 Departmental Insights & Recommendations
 
-Some regions underperform due to lower repeat purchase rates.
+### 💰 Sales Insights
 
-Recommendations:
+- Q4 is consistently the highest performing quarter from 2019 to 2025, driven by holiday promotions.
 
-Expand Q4 promotion planning to Q3 to maximize conversion.
+- High-performing brands: Levi’s, Calvin Klein, and Nike drive over 35% of annual revenue.
 
-Boost loyalty program for low-retention areas.
+- Some regions underperform due to lower repeat purchase rates.
 
-Focus on bundling strategies with top 3 brands.
+**Recommendations:**
 
-📣 Marketing Insights
+- Expand Q4 promotion planning to Q3 to maximize conversion.
 
-Organic traffic is the top source, but paid campaigns drive higher conversion.
+- Boost loyalty program for low-retention areas.
 
-Mobile users account for over 60% of sessions but convert less than desktop users.
+- Focus on bundling strategies with top 3 brands.
 
-Traffic spikes align with influencer campaigns and product launches.
+### 📣 Marketing Insights
 
-Recommendations:
+- Organic traffic is the top source, but paid campaigns drive higher conversion.
 
-Optimize landing pages for mobile.
+- Mobile users account for over 60% of sessions but convert less than desktop users.
 
-Invest more in high-ROI influencer and paid search campaigns.
+- Traffic spikes align with influencer campaigns and product launches.
 
-Analyze campaign timing to avoid overlapping traffic noise.
+**Recommendations:**
 
-🎧 Customer Service Insights
+- Optimize landing pages for mobile.
 
-Support tickets peaked during product launches and delays in Q4.
+- Invest more in high-ROI influencer and paid search campaigns.
 
-Average resolution time improved by 25% from 2022 to 2025.
+- Analyze campaign timing to avoid overlapping traffic noise.
 
-High satisfaction scores (>90%) for live chat, low for email.
+### 🎧 Customer Service Insights
 
-Recommendations:
+- Support tickets peaked during product launches and delays in Q4.
 
-Prioritize live chat as primary channel.
+- Average resolution time improved by 25% from 2022 to 2025.
 
-Expand self-service knowledge base for common issues.
+- High satisfaction scores (>90%) for live chat, low for email.
 
-Anticipate support needs ahead of product drops.
+**Recommendations:**
 
-📦 Inventory Insights
+- Prioritize live chat as primary channel.
 
-Overstocking in apparel leads to aging inventory (90+ days).
+- Expand self-service knowledge base for common issues.
 
-Inventory turnover is lowest in Q1 and Q2 of each year.
+- Anticipate support needs ahead of product drops.
 
-Distribution imbalance causes stockouts in high-demand locations.
+### 📦 Inventory Insights
 
-Recommendations:
+- Overstocking in apparel leads to aging inventory (90+ days).
 
-Reallocate inventory dynamically based on sales heatmap.
+- Inventory turnover is lowest in Q1 and Q2 of each year.
 
-Introduce aging alerts and markdown automation.
+- Distribution imbalance causes stockouts in high-demand locations.
 
-Improve forecasting with seasonality and marketing event data.
+**Recommendations:**
 
-🚚 Logistics Insights
+- Reallocate inventory dynamically based on sales heatmap.
 
-Delivery SLA missed during Q4 surge in 2022 and 2023.
+- Introduce aging alerts and markdown automation.
 
-Some distribution centers underperform due to longer shipping routes.
+- Improve forecasting with seasonality and marketing event data.
 
-On-time delivery rate improved in 2025 due to new 3PL integration.
+### 🚚 Logistics Insights
 
-Recommendations:
+- Delivery SLA missed during Q4 surge in 2022 and 2023.
 
-Balance delivery load across regional centers.
+- Some distribution centers underperform due to longer shipping routes.
 
-Expand partnerships with reliable 3PL carriers.
+- On-time delivery rate improved in 2025 due to new 3PL integration.
 
-Implement predictive logistics for peak planning.
+**Recommendations:**
 
-🖼️ Dashboard Preview
+- Balance delivery load across regional centers.
+
+- Expand partnerships with reliable 3PL carriers.
+
+- Implement predictive logistics for peak planning.
+
+### 🖼️ Dashboard Preview
 
 Include screenshot here: ./Assets/departmental_dashboard_screenshot.png
 
