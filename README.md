@@ -12,13 +12,10 @@ I analyzed Fitbit smart device data to uncover user behavior trends and provides
 🔗 [Read full case study →](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Bellabeat.md)
 
 ---
+### 2. Looker E-Commerce: Finding insights from the important departments
+Analyzes key metrics across five business departments: Sales, Marketing, Customer Service, Inventory, and Logistics from 2019 to 2025.
 
-## 📊📉📈 Power BI Visualizations
-
-### 1. Brew Heaven: Visualizing the behavior of the revenue, inventory and customer ratings
-I created a visualization with the Brew Heaven data, first I analized it wiyh Power Query and DAX Meassures.
-
-🔗 [See the visualization →](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Power%20BI%20Visualizations/Brew%20Heaven%20project.png)
+🔗 [See the visualization →](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Looker%20E-Commerce)
 
 
 
